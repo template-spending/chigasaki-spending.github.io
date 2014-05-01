@@ -1,11 +1,11 @@
-# 俺のゼニはどこ行った for 茅ヶ崎
+# 俺のゼニはどこ行った for テンプレート
 
-wheredoesmymoney.orgの茅ヶ崎バージョンです．
+wheredoesmymoney.orgのテンプレートバージョンです．
 横浜バージョンに啓発されて作成しました。
-http://chigasaki.spending.jp/ で稼働しているサイトのソースコードです。
+http://template.spending.jp/ で稼働しているサイトのソースコードです。
 これからもデータの更新や改善を続けていこうと思いますので、ご意見、ご要望、ご指摘をお願いします。
 
-Team for 茅ヶ崎
+Team for テンプレート
 七島　偉之（Hideyuki Nanashima）, @jollyjoester
 
 
