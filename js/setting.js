@@ -10,14 +10,14 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'chigasaki_2013_budget';
+OpenSpending.identifier = 'template_2013_budget';
 OpenSpending.year = '2013';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
-  /* chigasaki cofog */
+  /* template cofog */
   '1': { icon: 'icons/civilian-action.svg', color: '#138EC0', bcolor: '#935B3B' },//議会費
   '1-1': { icon: 'icons/civilian-action.svg', color: '#138EC0', bcolor: '#935B3B' },
   '2': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },//総務費
